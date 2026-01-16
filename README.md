@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="center">🤝 Connect with Me </h2>
+<h1 align="center">🤝 Connect with Me 🤝</h2>
 
 ###
 
